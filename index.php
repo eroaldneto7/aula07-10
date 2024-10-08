@@ -1,4 +1,5 @@
 <?php
+    include "verificar_logado.php";
     include "menu_topo.php";
 ?>
 <html>
